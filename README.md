@@ -1,1 +1,3 @@
 # LR_Delivery_Time_Prediction_Prabhakar_Madduri
+
+#Repo consists of Report_LR_Delivery_Time_Prediction_Prabhakar_Madduri.pdf and LR_Delivery_Time_Prediction_Prabhakar_Madduri.ipynb
